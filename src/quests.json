@@ -1,0 +1,1990 @@
+[
+  {
+    "locale": "Shrine Ruins",
+    "description": "Explore the Shrine Ruins",
+    "type": "V",
+    "stars": 1,
+    "title": "A Tour of the Ruins"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Explore the Frost Islands",
+    "type": "V",
+    "stars": 2,
+    "title": "A Tour of the Islands"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Explore the Sandy Plains",
+    "type": "V",
+    "stars": 3,
+    "title": "A Tour of the Plains"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Explore the Flooded Forest",
+    "type": "V",
+    "stars": 3,
+    "title": "A Tour of the Forest"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Search the Lava Caverns",
+    "type": "V",
+    "stars": 4,
+    "title": "A Tour of the Caverns"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Deliver 8 Firelanterns",
+    "type": "V",
+    "stars": 1,
+    "title": "Roly-poly Lanterns"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Deliver 8 Unique Mushrooms",
+    "type": "V",
+    "stars": 1,
+    "title": "Fungal Frustrations"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Slay 8 Jagras",
+    "type": "V",
+    "stars": 1,
+    "title": "Impious Peons"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Slay 8 Izuchi",
+    "type": "V",
+    "stars": 1,
+    "title": "Help With Maintenance"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt an Arzuros",
+    "type": "V",
+    "stars": 2,
+    "title": "Grizzly Glutton"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Deliver 10 Raftshells",
+    "type": "V",
+    "stars": 2,
+    "title": "Plump and Juicy"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Slay 10 Baggi",
+    "type": "V",
+    "stars": 2,
+    "title": "A Frosty Paradise"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Great Baggi",
+    "type": "V",
+    "stars": 2,
+    "title": "Out Cold"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Lagombi",
+    "type": "V",
+    "stars": 2,
+    "title": "Rabid Rabbit"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Great Izuchi",
+    "type": "V",
+    "stars": 2,
+    "title": "Great Izuchi, Great Pain"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Slay a total of 14 Altaroth or Bnahabra",
+    "type": "V",
+    "stars": 2,
+    "title": "Case of the Creepy Crawlies"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Deliver 3 Popo Tongues",
+    "type": "V",
+    "stars": 2,
+    "title": "Hmm, Not So Tasty..."
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Defend the final gate",
+    "type": "V",
+    "stars": 3,
+    "title": "The Rampage Approaches"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Tetranadon",
+    "type": "V",
+    "stars": 3,
+    "title": "Can't Stomach the Thought"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt a Kulu-Ya-Ku",
+    "type": "V",
+    "stars": 3,
+    "title": "Walking on Eggshells"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt a Barroth",
+    "type": "V",
+    "stars": 3,
+    "title": "Fightin' Dirty"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Great Wroggi",
+    "type": "V",
+    "stars": 3,
+    "title": "Obnoxious Lord, Noxious Monster"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Royal Ludroth",
+    "type": "V",
+    "stars": 3,
+    "title": "Spongy Oasis"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt an Aknosom",
+    "type": "V",
+    "stars": 3,
+    "title": "Feathered Frenzy"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Deliver 6 Classic Dango Ingredients",
+    "type": "V",
+    "stars": 3,
+    "title": "Supply Run"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Khezu",
+    "type": "V",
+    "stars": 3,
+    "title": "Faceless Foe"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Deliver 10 Bauble Cactus",
+    "type": "V",
+    "stars": 3,
+    "title": "The Cactus Diet"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Slay a total of 14 Jaggi or Jaggia",
+    "type": "V",
+    "stars": 3,
+    "title": "A Sandy Cabal"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Deliver 10 Simple Prisms",
+    "type": "V",
+    "stars": 3,
+    "title": "Breath of the Past"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Slay 10 Ludroth",
+    "type": "V",
+    "stars": 3,
+    "title": "Ladies of the Lake"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt an Aknosom and a Rathian",
+    "type": "V",
+    "stars": 4,
+    "title": "Special License Test 1"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Somnacanth",
+    "type": "V",
+    "stars": 4,
+    "title": "Infernal Lacrimosa"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Barioth",
+    "type": "V",
+    "stars": 4,
+    "title": "Raging White-out"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt a Rathian",
+    "type": "V",
+    "stars": 4,
+    "title": "The Queen's Procession"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Tobi-Kadachi",
+    "type": "V",
+    "stars": 4,
+    "title": "Streaking Shadow"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt a Volvidon",
+    "type": "V",
+    "stars": 4,
+    "title": "A Song of Red and Fire"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt a Basarios",
+    "type": "V",
+    "stars": 4,
+    "title": "Off Your Rocker"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Bishaten",
+    "type": "V",
+    "stars": 4,
+    "title": "Monkey Wrench in Your Plans"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Deliver 6 Secret Dango Ingredients",
+    "type": "V",
+    "stars": 4,
+    "title": "Getting Back the Groceries"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Pukei-Pukei",
+    "type": "V",
+    "stars": 4,
+    "title": "A Poisonous Project"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Deliver 5 Monster Guts",
+    "type": "V",
+    "stars": 4,
+    "title": "Deliver the Liver"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Deliver 12 pieces of Coal",
+    "type": "V",
+    "stars": 4,
+    "title": "So Hot, It Melts Iron"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Slay 10 Rachnoid",
+    "type": "V",
+    "stars": 4,
+    "title": "THE BEST Quest"
+  },
+  {
+    "locale": "Arena",
+    "description": "Hunt all target monsters",
+    "type": "V",
+    "stars": 4,
+    "title": "Third Wheel"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt all target monsters",
+    "type": "V",
+    "stars": 5,
+    "title": "Special License Test 2"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Nargacuga",
+    "type": "V",
+    "stars": 5,
+    "title": "Wind Speed Wyvern"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Zinogre",
+    "type": "V",
+    "stars": 5,
+    "title": "Electrifying Epiphany"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt an Anjanath",
+    "type": "V",
+    "stars": 5,
+    "title": "Nocturnal Tracker"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Mizutsune",
+    "type": "V",
+    "stars": 5,
+    "title": "Waltzing by Moonlight"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt a Rathalos",
+    "type": "V",
+    "stars": 5,
+    "title": "Rathalos Alert!"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt Magnamalo",
+    "type": "V",
+    "stars": 5,
+    "title": "Comeuppance"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Capture a Somnacanth",
+    "type": "V",
+    "stars": 5,
+    "title": "The Secret Ingredient"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Khezu and a Somnacanth",
+    "type": "V",
+    "stars": 5,
+    "title": "BZZZZZ or ZZZZzzzz"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt a Kulu-Ya-Ku and an Anjanath",
+    "type": "V",
+    "stars": 5,
+    "title": "Nosey Nuisances"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt a Tetranadon and a Volvidon",
+    "type": "V",
+    "stars": 5,
+    "title": "The Hottest Around"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt all target monsters",
+    "type": "V",
+    "stars": 6,
+    "title": "Special License Test 3"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt an Almudron",
+    "type": "V",
+    "stars": 6,
+    "title": "Hermit of the Swamp"
+  },
+  {
+    "locale": "Arena",
+    "description": "Hunt all target monsters",
+    "type": "V",
+    "stars": 6,
+    "title": "Advanced: The Veterans' Gala"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Goss Harag",
+    "type": "V",
+    "stars": 6,
+    "title": "Abominable Snow-beast"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Tigrex",
+    "type": "V",
+    "stars": 6,
+    "title": "Thundering Voice"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt a Diablos",
+    "type": "V",
+    "stars": 6,
+    "title": "Twisted Desire"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt Magnamalo and a Zinogre",
+    "type": "V",
+    "stars": 6,
+    "title": "A Test of Courage"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Tobi-Kadachi and a Mizutsune",
+    "type": "V",
+    "stars": 6,
+    "title": "Like a Flash of Lightning"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt a Rathalos and a Tigrex",
+    "type": "V",
+    "stars": 6,
+    "title": "King of the Sky, Bane of the Land"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Explore the Shrine Ruins",
+    "type": "H",
+    "stars": 1,
+    "title": "A Tour of the Ruins"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Explore the Frost Islands",
+    "type": "H",
+    "stars": 1,
+    "title": "A Tour of the Islands"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Explore the Sandy Plains",
+    "type": "H",
+    "stars": 2,
+    "title": "A Tour of the Plains"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Explore the Flooded Forest",
+    "type": "H",
+    "stars": 2,
+    "title": "A Tour of the Forest"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Explore the Lava Caverns",
+    "type": "H",
+    "stars": 3,
+    "title": "A Tour of the Caverns"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Defend the final gate",
+    "type": "H",
+    "stars": 2,
+    "title": "The Rampage Approaches"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt an Aknosom",
+    "type": "H",
+    "stars": 1,
+    "title": "Shady Monster"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Kulu-Ya-Ku",
+    "type": "H",
+    "stars": 1,
+    "title": "Tired and Feathered"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Great Izuchi",
+    "type": "H",
+    "stars": 1,
+    "title": "Jumped in the Frost Islands"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Great Baggi",
+    "type": "H",
+    "stars": 1,
+    "title": "No Cure for the Common Baggi"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Lagombi",
+    "type": "H",
+    "stars": 1,
+    "title": "A Snowball's Chance..."
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Great Wroggi",
+    "type": "H",
+    "stars": 1,
+    "title": "Wroggi Place, Wroggi Time"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt an Arzuros",
+    "type": "H",
+    "stars": 1,
+    "title": "A Grizzly Encounter"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Slay a total of 20 Izuchi or Altaroth",
+    "type": "H",
+    "stars": 1,
+    "title": "Off the Beaten Path"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Slay a total of 20 Zamite or Bnahabra",
+    "type": "H",
+    "stars": 1,
+    "title": "Hot Topic Hooligans"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Bishaten",
+    "type": "H",
+    "stars": 2,
+    "title": "I Want Off This Ride"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt a Pukei-Pukei",
+    "type": "H",
+    "stars": 2,
+    "title": "Way of the Pukei"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Royal Ludroth",
+    "type": "H",
+    "stars": 2,
+    "title": "The Flooding Flooded Forest"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt a Barroth",
+    "type": "H",
+    "stars": 2,
+    "title": "So Muddy Hardheaded!"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Khezu",
+    "type": "H",
+    "stars": 2,
+    "title": "A Pale Shadow"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt a Volvidon",
+    "type": "H",
+    "stars": 2,
+    "title": "Reinventing the Wheel"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt a Basarios",
+    "type": "H",
+    "stars": 2,
+    "title": "Blasted Basarios!"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Rathian",
+    "type": "H",
+    "stars": 2,
+    "title": "The Path to Royalty"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Tetranadon",
+    "type": "H",
+    "stars": 2,
+    "title": "Dead Ringer"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Slay 20 Kestodon",
+    "type": "H",
+    "stars": 2,
+    "title": "Dawn of the Kestodon"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Slay a total of 20 Jagras or Ludroth",
+    "type": "H",
+    "stars": 2,
+    "title": "Hide, Hide, Hide!"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Lagombi and a Tetranadon",
+    "type": "H",
+    "stars": 2,
+    "title": "Bouncing Brawlers"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt all target monsters",
+    "type": "H",
+    "stars": 2,
+    "title": "Fried and Baptized"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Somnacanth",
+    "type": "H",
+    "stars": 3,
+    "title": "Beckoning Slumber"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Goss Harag",
+    "type": "H",
+    "stars": 3,
+    "title": "The Blizzard Blender"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Tobi-Kadachi",
+    "type": "H",
+    "stars": 3,
+    "title": "Zigzagging Zapper"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt an Almudron",
+    "type": "H",
+    "stars": 3,
+    "title": "Down 'n' Dirty"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt an Anjanath",
+    "type": "H",
+    "stars": 3,
+    "title": "Bully of the Caverns"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Nargacuga",
+    "type": "H",
+    "stars": 3,
+    "title": "Twilit Twin Stars"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Mizutsune",
+    "type": "H",
+    "stars": 3,
+    "title": "My Muse the Mizutsune"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt a Rathalos",
+    "type": "H",
+    "stars": 3,
+    "title": "Champion of the Caverns"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Zinogre",
+    "type": "H",
+    "stars": 3,
+    "title": "Wavering Moon and Thunder"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Barioth",
+    "type": "H",
+    "stars": 3,
+    "title": "White Knight vs. Hunter"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt a Tigrex",
+    "type": "H",
+    "stars": 3,
+    "title": "A Friend in Need"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt a Diablos",
+    "type": "H",
+    "stars": 3,
+    "title": "A Few Bumps Along the Way"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt Magnamalo",
+    "type": "H",
+    "stars": 3,
+    "title": "Hellfire"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Bishaten and an Almudron",
+    "type": "H",
+    "stars": 3,
+    "title": "Tail to Tail"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt all target monsters",
+    "type": "H",
+    "stars": 3,
+    "title": "Beastly Chaos"
+  },
+  {
+    "locale": "Arena",
+    "description": "Hunt all target monsters",
+    "type": "H",
+    "stars": 3,
+    "title": "Disastrously Beautiful"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Explore the Shrine Ruins (High Rank)",
+    "type": "H",
+    "stars": 4,
+    "title": "A Tour of the Ruins"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Explore the Frost Islands (High Rank)",
+    "type": "H",
+    "stars": 4,
+    "title": "A Tour of the Islands"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Explore the Sandy Plains (High Rank)",
+    "type": "H",
+    "stars": 5,
+    "title": "A Tour of the Plains"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Explore the Flooded Forest (High Rank)",
+    "type": "H",
+    "stars": 5,
+    "title": "A Tour of the Forest"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Explore the Lava Caverns (High Rank)",
+    "type": "H",
+    "stars": 6,
+    "title": "A Tour of the Caverns"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Slay an Apex Arzuros",
+    "type": "H",
+    "stars": 4,
+    "title": "The Blue Apex"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Great Izuchi",
+    "type": "H",
+    "stars": 4,
+    "title": "The Swirling Gale"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt an Arzuros and a Kulu-Ya-Ku",
+    "type": "H",
+    "stars": 4,
+    "title": "Divine Comedy"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt 2 Great Baggi",
+    "type": "H",
+    "stars": 4,
+    "title": "Didn't Get the Memo"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt an Aknosom",
+    "type": "H",
+    "stars": 4,
+    "title": "Dancing A-purr-ition"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Tetranadon",
+    "type": "H",
+    "stars": 4,
+    "title": "The Frost Islands Arena"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Lagombi",
+    "type": "H",
+    "stars": 4,
+    "title": "Even Cute Things Have Fangs"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Great Wroggi",
+    "type": "H",
+    "stars": 4,
+    "title": "Donning Toxicity"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Khezu",
+    "type": "H",
+    "stars": 4,
+    "title": "Night of the Khezu"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Slay a total of 20 Izuchi or Baggi",
+    "type": "H",
+    "stars": 4,
+    "title": "Dango Duty"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt 2 Kulu-Ya-Ku",
+    "type": "H",
+    "stars": 4,
+    "title": "Totally Not Cool, Kulu!"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Capture an Aknosom",
+    "type": "H",
+    "stars": 4,
+    "title": "Study the Sword & Shield"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt all target monsters",
+    "type": "H",
+    "stars": 4,
+    "title": "Honing Your Hunting Horn"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Lagombi and a Khezu",
+    "type": "H",
+    "stars": 4,
+    "title": "Study the Switch Axe"
+  },
+  {
+    "locale": "Arena",
+    "description": "Hunt a Great Baggi and a Great Wroggi",
+    "type": "H",
+    "stars": 4,
+    "title": "Learning the Light Bowgun"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Slay a total of 20 Jagras or Bullfango",
+    "type": "H",
+    "stars": 4,
+    "title": "Lost and Found"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Capture an Arzuros",
+    "type": "H",
+    "stars": 4,
+    "title": "Blue, Round, and Cute"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Royal Ludroth",
+    "type": "H",
+    "stars": 5,
+    "title": "Foul Play in the Forest"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt a Barroth",
+    "type": "H",
+    "stars": 5,
+    "title": "Rise above the Mud"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt 2 Volvidon",
+    "type": "H",
+    "stars": 5,
+    "title": "Bowled Over"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Bishaten",
+    "type": "H",
+    "stars": 5,
+    "title": "Rotten Fruit"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Pukei-Pukei",
+    "type": "H",
+    "stars": 5,
+    "title": "Go Away, Pukei!"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt a Basarios",
+    "type": "H",
+    "stars": 5,
+    "title": "Miner Problem"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Rathian",
+    "type": "H",
+    "stars": 5,
+    "title": "Charmed by a Queen"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Jyuratodus",
+    "type": "H",
+    "stars": 5,
+    "title": "The Restless Swamp"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt 2 Bishaten",
+    "type": "H",
+    "stars": 5,
+    "title": "Grasp the Great Sword"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt a Pukei-Pukei and a Barroth",
+    "type": "H",
+    "stars": 5,
+    "title": "Honing Your Hammer"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Capture a Rathian",
+    "type": "H",
+    "stars": 5,
+    "title": "Learn the Lance"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt all target monsters",
+    "type": "H",
+    "stars": 5,
+    "title": "Charge Blade Coalescing"
+  },
+  {
+    "locale": "Arena",
+    "description": "Hunt a Basarios and a Volvidon",
+    "type": "H",
+    "stars": 5,
+    "title": "Hone Your Heavy Bowgun"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Slay a total of 20 Rhenoplos or Kestodon",
+    "type": "H",
+    "stars": 5,
+    "title": "Bad Review"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Slay a total of 20 Ludroth or Wroggi",
+    "type": "H",
+    "stars": 5,
+    "title": "Flooded Forest Fiasco"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Khezu and a Tetranadon",
+    "type": "H",
+    "stars": 5,
+    "title": "Shadows Over the Frost"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Repel Ibushi",
+    "type": "H",
+    "stars": 6,
+    "title": "Serpent God of Wind"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Zinogre",
+    "type": "H",
+    "stars": 6,
+    "title": "Skies Flash, Clouds Boom"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt a Somnacanth",
+    "type": "H",
+    "stars": 6,
+    "title": "A Somniferous Elegy"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Barioth",
+    "type": "H",
+    "stars": 6,
+    "title": "Sharpening Amber Fangs"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Tobi-Kadachi",
+    "type": "H",
+    "stars": 6,
+    "title": "Skies are Gray"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt an Anjanath",
+    "type": "H",
+    "stars": 6,
+    "title": "Closer Than it Appears"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Nargacuga",
+    "type": "H",
+    "stars": 6,
+    "title": "The Abyss Stares Back"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt a Rathalos",
+    "type": "H",
+    "stars": 6,
+    "title": "Red Skies at Night"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Mizutsune",
+    "type": "H",
+    "stars": 6,
+    "title": "A Bewitching Dance"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Nargacuga and a Jyuratodus",
+    "type": "H",
+    "stars": 6,
+    "title": "Do It for the Dango!"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Zinogre and a Mizutsune",
+    "type": "H",
+    "stars": 6,
+    "title": "Learn the Long Sword"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt an Anjanath and a Rathian",
+    "type": "H",
+    "stars": 6,
+    "title": "Dissect the Dual Blades"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Capture a Barioth",
+    "type": "H",
+    "stars": 6,
+    "title": "Grasp the Gunlance"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Somnacanth and an Aknosom",
+    "type": "H",
+    "stars": 6,
+    "title": "Invoke the Insect Glaive"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt 2 Tobi-Kadachi",
+    "type": "H",
+    "stars": 6,
+    "title": "Be One with the Bow"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Slay a total of 20 Uroktor or Rachnoid",
+    "type": "H",
+    "stars": 6,
+    "title": "The Lava Caverns Sweep"
+  },
+  {
+    "locale": "Arena",
+    "description": "Hunt all target monsters",
+    "type": "H",
+    "stars": 6,
+    "title": "Showdown in the Arena"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Goss Harag",
+    "type": "H",
+    "stars": 7,
+    "title": "It's Gonna Get You!"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt Magnamalo",
+    "type": "H",
+    "stars": 7,
+    "title": "Clad in Hellfire"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt an Almudron",
+    "type": "H",
+    "stars": 7,
+    "title": "A Muddy Invitation"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt a Diablos",
+    "type": "H",
+    "stars": 7,
+    "title": "Subterranean Disturbances"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt a Tigrex",
+    "type": "H",
+    "stars": 7,
+    "title": "A Resounding Roar"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt a Rajang",
+    "type": "H",
+    "stars": 7,
+    "title": "Evil Afoot"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt a Rakna-Kadaki",
+    "type": "H",
+    "stars": 7,
+    "title": "Can't Kill It with Fire"
+  },
+  {
+    "locale": "Coral Palace",
+    "description": "Slay the Thunder Serpent Narwa",
+    "type": "H",
+    "stars": 7,
+    "title": "Serpent Goddess of Thunder"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt a Rathalos and Magnamalo",
+    "type": "H",
+    "stars": 7,
+    "title": "Seared Situation"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt 2 Diablos",
+    "type": "H",
+    "stars": 7,
+    "title": "A Quartet of Horns"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt all target monsters",
+    "type": "H",
+    "stars": 8,
+    "title": "A Blaze Among Beasts"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Capture a Rajang",
+    "type": "H",
+    "stars": 8,
+    "title": "May Fire Quell Fury"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt an Almudron and a Mizutsune",
+    "type": "H",
+    "stars": 7,
+    "title": "Ruckus in the Ruins"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Goss Harag and a Tetranadon",
+    "type": "H",
+    "stars": 7,
+    "title": "A Frosty Stalemate"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt a Diablos and an Anjanath",
+    "type": "H",
+    "stars": 7,
+    "title": "Fought, Failed, Fired Up"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Rajang and a Zinogre",
+    "type": "H",
+    "stars": 7,
+    "title": "Occupational Hazards"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt a Rakna-Kadaki and a Khezu",
+    "type": "H",
+    "stars": 7,
+    "title": "Omnidirectional Threats"
+  },
+  {
+    "locale": "Arena",
+    "description": "Hunt all target monsters",
+    "type": "H",
+    "stars": 7,
+    "title": "A Whirlwind of a Stage"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Slay a Chameleos",
+    "type": "H",
+    "stars": 8,
+    "title": "Ancient Illusion"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Slay a Kushala Daora",
+    "type": "H",
+    "stars": 8,
+    "title": "The Steely Storm"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Slay a Teostra",
+    "type": "H",
+    "stars": 8,
+    "title": "The Emperor of Flame"
+  },
+  {
+    "locale": "Coral Palace",
+    "description": "Slay Ibushi and Narwa",
+    "type": "H",
+    "stars": 8,
+    "title": "The Allmother"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Slay a Crimson Glow Valstrax",
+    "type": "H",
+    "stars": 8,
+    "title": "The Crimson Glow"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Slay a Crimson Glow Valstrax",
+    "type": "H",
+    "stars": 8,
+    "title": "The Evil Star from Beyond"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Slay a Crimson Glow Valstrax",
+    "type": "H",
+    "stars": 8,
+    "title": "The Evil Star from Beyond"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Slay a Crimson Glow Valstrax",
+    "type": "H",
+    "stars": 8,
+    "title": "The Evil Star from Beyond"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Slay a Crimson Glow Valstrax",
+    "type": "H",
+    "stars": 8,
+    "title": "The Evil Star from Beyond"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt a Bazelgeuse",
+    "type": "H",
+    "stars": 8,
+    "title": "Death From Above"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Bazelgeuse",
+    "type": "H",
+    "stars": 8,
+    "title": "Return of the Bazelgeuse"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Bazelgeuse",
+    "type": "H",
+    "stars": 8,
+    "title": "Return of the Bazelgeuse"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Bazelgeuse",
+    "type": "H",
+    "stars": 8,
+    "title": "Return of the Bazelgeuse"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt a Bazelgeuse",
+    "type": "H",
+    "stars": 8,
+    "title": "Return of the Bazelgeuse"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt an Apex Arzuros",
+    "type": "H",
+    "stars": 8,
+    "title": "The Avaricious Apex Arzuros"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt an Apex Rathian",
+    "type": "H",
+    "stars": 8,
+    "title": "The Graceful Apex Rathian"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt an Apex Mizutsune",
+    "type": "H",
+    "stars": 8,
+    "title": "The Harlequin Apex Mizutsune"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt an Apex Rathalos",
+    "type": "H",
+    "stars": 8,
+    "title": "The Fearsome Apex Rathalos"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt an Apex Diablos",
+    "type": "H",
+    "stars": 8,
+    "title": "The Devastating Apex Diablos"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt an Apex Zinogre",
+    "type": "H",
+    "stars": 8,
+    "title": "The Voltaic Apex Zinogre"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt Magnamalo and a Bazelgeuse",
+    "type": "H",
+    "stars": 8,
+    "title": "Advanced: Dual Calamities"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Goss Harag, a Tigrex, and a Mizutsune",
+    "type": "H",
+    "stars": 8,
+    "title": "Advanced: Monsters in Ink"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Slay a Kushala Daora and a Teostra",
+    "type": "H",
+    "stars": 8,
+    "title": "Advanced: Of Storm and Fire"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Slay a Chameleos and hunt a Rajang",
+    "type": "H",
+    "stars": 8,
+    "title": "Advanced: Scaredy-Cat"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Slay a Crimson Glow Valstrax and hunt a Rakna-kadaki",
+    "type": "H",
+    "stars": 8,
+    "title": "Advanced: The Fallen Comet"
+  },
+  {
+    "locale": "Infernal Springs",
+    "description": "Hunt all target monsters",
+    "type": "H",
+    "stars": 8,
+    "title": "Advanced: Proof of Power"
+  },
+  {
+    "locale": "Infernal Springs",
+    "description": "Slay all target monsters",
+    "type": "H",
+    "stars": 8,
+    "title": "Advanced: Those Crowned Apex"
+  },
+  {
+    "locale": "Arena",
+    "description": "Slay a Kulu-Ya-Ku",
+    "type": "A",
+    "stars": 1,
+    "title": "Arena 01"
+  },
+  {
+    "locale": "Arena",
+    "description": "Slay a Barroth",
+    "type": "A",
+    "stars": 2,
+    "title": "Arena 02"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Slay a Royal Ludroth and a Nargacuga",
+    "type": "A",
+    "stars": 3,
+    "title": "Arena 03"
+  },
+  {
+    "locale": "Arena",
+    "description": "Slay a Barioth",
+    "type": "A",
+    "stars": 6,
+    "title": "Arena 04"
+  },
+  {
+    "locale": "Arena",
+    "description": "Slay a Rajang",
+    "type": "A",
+    "stars": 7,
+    "title": "Arena 05"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Slay a Volvidon, a Basarios, and a Bazelgeuse",
+    "type": "A",
+    "stars": 8,
+    "title": "Arena 06"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": null,
+    "type": "H",
+    "stars": 8,
+    "title": "Master Utsushi's Challenge Part 1"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": null,
+    "type": "H",
+    "stars": 8,
+    "title": "Master Utsushi's Challenge Part 2"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": null,
+    "type": "H",
+    "stars": 8,
+    "title": "Master Utsushi's Challenge Part 3"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": null,
+    "type": "H",
+    "stars": 8,
+    "title": "Master Utsushi's Challenge Part 4"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": null,
+    "type": "H",
+    "stars": 8,
+    "title": "Master Utsushi's Challenge Part 5"
+  },
+  {
+    "locale": "Arena",
+    "description": "Hunt a Goss Harag and Magnamalo",
+    "type": "E",
+    "stars": 3,
+    "title": "Heart of a Warrior"
+  },
+  {
+    "locale": "Arena",
+    "description": "Hunt a Kulu-Ya-Ku, a Great Izuchi, and a Great Baggi",
+    "type": "E",
+    "stars": 1,
+    "title": "Bird Wyverns of Ruin?"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Deliver 21 Sun Goddess Pictures",
+    "type": "E",
+    "stars": 2,
+    "title": "Rising Sun!? \u25a3"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt a Tetranadon",
+    "type": "E",
+    "stars": 6,
+    "title": "Out of Sight, Out of Mind's Eye"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Nargacuga",
+    "type": "E",
+    "stars": 7,
+    "title": "Beast of the Shadows"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Slay an Apex Arzuros",
+    "type": "E",
+    "stars": 8,
+    "title": "Haste Makes Waste"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Somnacanth",
+    "type": "E",
+    "stars": 7,
+    "title": "I Can't Do What Somnacan"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt an Aknosom",
+    "type": "E",
+    "stars": 4,
+    "title": "Dancing Parasol, Snowy Breeze"
+  },
+  {
+    "locale": "Arena",
+    "description": "Hunt all target monsters",
+    "type": "E",
+    "stars": 7,
+    "title": "Heart of a Ninja"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt an Almudron",
+    "type": "E",
+    "stars": 8,
+    "title": "Almudron: Fashion Victim \u25a3"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Slay a Chameleos",
+    "type": "E",
+    "stars": 8,
+    "title": "Fooled in the Flooded Forest \u25a3"
+  },
+  {
+    "locale": "Red Stronghold",
+    "description": "Defend the final gate",
+    "type": "E",
+    "stars": 7,
+    "title": "Rampage: Muddi Gras \u25a3"
+  },
+  {
+    "locale": "Arena",
+    "description": "Hunt a Tigrex and a Diablos",
+    "type": "E",
+    "stars": 8,
+    "title": "Heart of a Hero \u25a3"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Goss Harag",
+    "type": "E",
+    "stars": 8,
+    "title": "An Icy Blade So Bright \u25a3"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Slay a Kushala Daora",
+    "type": "E",
+    "stars": 8,
+    "title": "Tempest in the Desert \u25a3"
+  },
+  {
+    "locale": "Red Stronghold",
+    "description": "Defend the final gate",
+    "type": "E",
+    "stars": 8,
+    "title": "Rampage: Enchanting Parade \u25a3"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Bazelgeuse",
+    "type": "E",
+    "stars": 8,
+    "title": "Boomy Dango \u25a3"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Slay an Apex Mizutsune and an Apex Zinogre",
+    "type": "E",
+    "stars": 8,
+    "title": "Heart of Rivalry \u25a3"
+  },
+  {
+    "locale": "Red Stronghold",
+    "description": "Slay Wind Serpent Ibushi",
+    "type": "E",
+    "stars": 8,
+    "title": "Rampage: Kamura Night Hunt \u25a3"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Rajang",
+    "type": "E",
+    "stars": 8,
+    "title": "SF: Ultimate Promotion Exam \u25a3"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Slay a Teostra",
+    "type": "E",
+    "stars": 8,
+    "title": "Scorching Showdown \u25a3"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt a Rakna-Kadaki",
+    "type": "E",
+    "stars": 8,
+    "title": "White Desert Blossom \u25a3"
+  },
+  {
+    "locale": "Infernal Springs",
+    "description": "Slay all target monsters",
+    "type": "E",
+    "stars": 8,
+    "title": "Heart of Might \u25a3"
+  },
+  {
+    "locale": "Coral Palace",
+    "description": "Slay Wind Serpent Ibushi",
+    "type": "E",
+    "stars": 8,
+    "title": "Gales of Ibushi Blow Again \u25a3"
+  },
+  {
+    "locale": "Coral Palace",
+    "description": "Slay Thunder Serpent Narwa",
+    "type": "E",
+    "stars": 8,
+    "title": "Clouds of Narwa Rumble Again \u25a3"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Slay an Apex Rathalos and an Apex Rathian",
+    "type": "E",
+    "stars": 8,
+    "title": "Trouble in Paradise \u25a3"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Slay 2 Apex Diablos",
+    "type": "E",
+    "stars": 8,
+    "title": "Diablos Deception \u25a3"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt Magnamalo",
+    "type": "E",
+    "stars": 8,
+    "title": "Blazin' Soul of a Warrior \u25a3"
+  },
+  {
+    "locale": "Coral Palace",
+    "description": "Slay Wind Serpent Ibushi and Narwa the Allmother",
+    "type": "E",
+    "stars": 8,
+    "title": "Advanced: Born of Paradise \u25a3"
+  },
+  {
+    "locale": "Infernal Springs",
+    "description": "Slay a Crimson Glow Valstrax",
+    "type": "E",
+    "stars": 8,
+    "title": "Advanced: Crimson Calamity \u25a3"
+  },
+  {
+    "locale": "Arena",
+    "description": "Hunt a Zinogre",
+    "type": "E",
+    "stars": 6,
+    "title": "The Blue Bomber's Best Bud \u25a3"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt all target monsters",
+    "type": "E",
+    "stars": 6,
+    "title": "Knight in Shattered Armor \u25a3"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Royal Ludroth, a Pukei-Pukei and a Bishaten",
+    "type": "E",
+    "stars": 5,
+    "title": "Soaring Desire \u25a3"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Hunt a Barroth, a Rathian and a Diablos",
+    "type": "E",
+    "stars": 7,
+    "title": "Kunai Ask You a Favor? \u25a3"
+  },
+  {
+    "locale": "Infernal Springs",
+    "description": "Hunt all target monsters",
+    "type": "E",
+    "stars": 6,
+    "title": "Troubled Waters \u25a3"
+  },
+  {
+    "locale": "Arena",
+    "description": "Hunt all target monsters",
+    "type": "E",
+    "stars": 8,
+    "title": "Rajang's Holiday Special \u25a3"
+  },
+  {
+    "locale": "Infernal Springs",
+    "description": "Slay all target monsters",
+    "type": "E",
+    "stars": 8,
+    "title": "Heart of an Apex \u25a3"
+  },
+  {
+    "locale": "Arena",
+    "description": "Hunt 2 Bishaten",
+    "type": "E",
+    "stars": 6,
+    "title": "Nothing to Sneeze At! \u25a3"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Hunt a Lagombi, a Barioth, and a Goss Harag",
+    "type": "E",
+    "stars": 8,
+    "title": "Frost Bites \u25a3"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt 3 Aknosom",
+    "type": "E",
+    "stars": 5,
+    "title": "Dastardly Vile Aknosom Trio \u25a3"
+  },
+  {
+    "locale": "Infernal Springs",
+    "description": "Hunt an Arzuros and a Tetranadon",
+    "type": "E",
+    "stars": 5,
+    "title": "Wrestling with Pain \u25a3"
+  },
+  {
+    "locale": "Red Stronghold",
+    "description": "Defend the final gate",
+    "type": "E",
+    "stars": 8,
+    "title": "A Good Old-Fashioned Rampage \u25a3"
+  },
+  {
+    "locale": "Infernal Springs",
+    "description": "Hunt all target monsters",
+    "type": "E",
+    "stars": 8,
+    "title": "Princesses' Banquet \u25a3"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Hunt a Volvidon, an Anjanath and a Tigrex",
+    "type": "E",
+    "stars": 7,
+    "title": "Monster Maniacs \u25a3"
+  },
+  {
+    "locale": "Arena",
+    "description": "Hunt a Zinogre and a Khezu",
+    "type": "E",
+    "stars": 7,
+    "title": "Zin and Yang \u25a3"
+  },
+  {
+    "locale": "Arena",
+    "description": "Hunt a Lagombi",
+    "type": "E",
+    "stars": 4,
+    "title": "The Tiniest Snowbaron! \u25a3"
+  },
+  {
+    "locale": "Red Stronghold",
+    "description": "Defend the final gate",
+    "type": "E",
+    "stars": 8,
+    "title": "Rampage: Rampaging Rajang \u25a3"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Great Izuchi, a Mizutsune, and Magnamalo",
+    "type": "E",
+    "stars": 7,
+    "title": "Memories of That Day \u25a3"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Slay an Apex Arzuros",
+    "type": "E",
+    "stars": 8,
+    "title": "Apex Arzuros Emergency \u25a3"
+  },
+  {
+    "locale": "Lava Caverns",
+    "description": "Slay an Apex Rathian",
+    "type": "E",
+    "stars": 8,
+    "title": "Apex Rathian Emergency \u25a3"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Slay an Apex Mizutsune",
+    "type": "E",
+    "stars": 8,
+    "title": "Apex Mizutsune Emergency \u25a3"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Slay an Apex Rathalos",
+    "type": "E",
+    "stars": 8,
+    "title": "Apex Rathalos Emergency \u25a3"
+  },
+  {
+    "locale": "Sandy Plains",
+    "description": "Slay an Apex Diablos",
+    "type": "E",
+    "stars": 8,
+    "title": "Apex Diablos Emergency \u25a3"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Slay an Apex Zinogre",
+    "type": "E",
+    "stars": 8,
+    "title": "Apex Zinogre Emergency \u25a3"
+  },
+  {
+    "locale": "Arena",
+    "description": "Slay a Tetranadon",
+    "type": "E",
+    "stars": 2,
+    "title": "Challenge Quest 01"
+  },
+  {
+    "locale": "Arena",
+    "description": "Slay a Zinogre",
+    "type": "E",
+    "stars": 6,
+    "title": "Challenge Quest 02"
+  },
+  {
+    "locale": "Arena",
+    "description": "Slay a Tigrex",
+    "type": "E",
+    "stars": 7,
+    "title": "Challenge Quest 03"
+  },
+  {
+    "locale": "Arena",
+    "description": "Slay Magnamalo",
+    "type": "E",
+    "stars": 7,
+    "title": "Challenge Quest 04"
+  },
+  {
+    "locale": "Arena",
+    "description": "Slay a Rakna-Kadaki",
+    "type": "E",
+    "stars": 7,
+    "title": "Challenge Quest 05 \u25a3"
+  },
+  {
+    "locale": "Frost Islands",
+    "description": "Slay a Somnacanth, a Goss Harag, and Magnamalo",
+    "type": "E",
+    "stars": 7,
+    "title": "Challenge Quest 06 \u25a3"
+  },
+  {
+    "locale": "Infernal Springs",
+    "description": "Slay all target monsters",
+    "type": "E",
+    "stars": 8,
+    "title": "Challenge Quest 07 \u25a3"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Deliver 200 Rings",
+    "type": "E",
+    "stars": 2,
+    "title": "Gotta Hoard Fast! \u25a3"
+  },
+  {
+    "locale": "Flooded Forest",
+    "description": "Hunt a Nargacuga",
+    "type": "E",
+    "stars": 8,
+    "title": "Super Shady Look-alike \u25a3"
+  },
+  {
+    "locale": "Red Stronghold",
+    "description": "Defend the final gate",
+    "type": "E",
+    "stars": 8,
+    "title": "USJ - Arzuros Onslaught! \u25a3"
+  },
+  {
+    "locale": "Shrine Ruins",
+    "description": "Hunt a Tetranadon, an Almudron, and Magnamalo",
+    "type": "E",
+    "stars": 8,
+    "title": "USJ - Shrine Showdown! \u25a3"
+  }
+]
